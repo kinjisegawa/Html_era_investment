@@ -1,0 +1,47 @@
+[10-Nov-2015 21:15:05 America/Chicago] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/era/public_html/contact_us.php on line 52
+[10-Nov-2015 21:16:03 America/Chicago] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/era/public_html/contact_us.php on line 52
+[10-Nov-2015 21:16:55 America/Chicago] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/era/public_html/contact_us.php on line 52
+[10-Nov-2015 21:17:58 America/Chicago] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/era/public_html/contact_us.php on line 52
+[11-Dec-2015 08:16:23 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/yoursite/public_html/era-investment/contact_us.php on line 45
+[11-Dec-2015 08:16:23 UTC] PHP Warning:  file_get_contents(blockip.txt) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/yoursite/public_html/era-investment/contact_us.php on line 52
+[11-Dec-2015 08:16:23 UTC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/yoursite/public_html/era-investment/contact_us.php on line 114
+[11-Dec-2015 08:16:23 UTC] PHP Notice:  Undefined variable: mailMessage in /home/yoursite/public_html/era-investment/contact_us.php on line 135
+[31-Jan-2016 23:25:42 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/yoursite/public_html/erainvestment/contact_us.php on line 45
+[31-Jan-2016 23:25:42 UTC] PHP Warning:  file_get_contents(blockip.txt) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/yoursite/public_html/erainvestment/contact_us.php on line 52
+[31-Jan-2016 23:25:42 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/yoursite/public_html/erainvestment/contact_us.php on line 54
+[31-Jan-2016 23:26:13 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/yoursite/public_html/erainvestment/contact_us.php on line 45
+[31-Jan-2016 23:26:13 UTC] PHP Warning:  file_get_contents(blockip.txt) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/yoursite/public_html/erainvestment/contact_us.php on line 52
+[31-Jan-2016 23:26:13 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/yoursite/public_html/erainvestment/contact_us.php on line 54
+[15-Aug-2016 01:23:11 UTC] PHP Notice:  Undefined index: HTTP_X_FORWARDED_FOR in /home/yoursite/public_html/erainvestment/contact_us.php on line 45
+[15-Aug-2016 01:23:11 UTC] PHP Warning:  file_get_contents(blockip.txt) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/yoursite/public_html/erainvestment/contact_us.php on line 52
+[15-Aug-2016 01:23:12 UTC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/yoursite/public_html/erainvestment/contact_us.php on line 114
+[15-Aug-2016 01:23:12 UTC] PHP Notice:  Undefined variable: mailMessage in /home/yoursite/public_html/erainvestment/contact_us.php on line 135
+[27-Oct-2016 01:24:15 UTC] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 52
+[05-Nov-2016 16:02:12 UTC] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 52
+[05-Dec-2016 10:22:38 UTC] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 52
+[23-May-2017 23:58:47 Asia/Singapore] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 52
+[23-May-2017 23:58:58 Asia/Singapore] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 52
+[02-Jul-2017 14:01:32 Asia/Singapore] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 52
+[14-Sep-2017 10:17:31 Asia/Singapore] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 52
+[14-Sep-2017 10:52:50 Asia/Singapore] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 52
+[07-Oct-2017 01:46:18 Asia/Singapore] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 52
+[07-Oct-2017 01:46:22 Asia/Singapore] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 52
+[05-Dec-2017 13:00:49 Asia/Singapore] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 52
+[07-Mar-2018 11:11:16 Asia/Singapore] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 52
+[05-Jul-2018 09:01:02 UTC] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 51
+[05-Jul-2018 09:01:02 UTC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/erainvestment/public_html/contact_us.php on line 113
+[12-Jul-2018 02:29:48 UTC] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 51
+[12-Jul-2018 02:29:49 UTC] PHP Deprecated:  Function ereg_replace() is deprecated in /home/erainvestment/public_html/contact_us.php on line 113
+[06-Aug-2018 15:16:20 UTC] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 51
+[14-Mar-2019 11:50:12 Singapore] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 51
+[14-Mar-2019 11:50:12 Singapore] PHP Deprecated:  Function ereg_replace() is deprecated in /home/erainvestment/public_html/contact_us.php on line 113
+[04-Jun-2019 15:38:31 Singapore] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 51
+[04-Jun-2019 15:38:31 Singapore] PHP Deprecated:  Function ereg_replace() is deprecated in /home/erainvestment/public_html/contact_us.php on line 113
+[12-Aug-2019 10:16:54 Singapore] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 51
+[12-Aug-2019 10:16:54 Singapore] PHP Deprecated:  Function ereg_replace() is deprecated in /home/erainvestment/public_html/contact_us.php on line 113
+[23-Aug-2019 00:47:39 Singapore] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 51
+[23-Aug-2019 00:47:39 Singapore] PHP Deprecated:  Function ereg_replace() is deprecated in /home/erainvestment/public_html/contact_us.php on line 113
+[22-Dec-2019 06:35:53 Singapore] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 51
+[22-Dec-2019 06:35:53 Singapore] PHP Deprecated:  Function ereg_replace() is deprecated in /home/erainvestment/public_html/contact_us.php on line 113
+[12-Jan-2020 18:34:22 Singapore] PHP Warning:  file_get_contents(blockip.txt): failed to open stream: No such file or directory in /home/erainvestment/public_html/contact_us.php on line 51
+[12-Jan-2020 18:34:22 Singapore] PHP Deprecated:  Function ereg_replace() is deprecated in /home/erainvestment/public_html/contact_us.php on line 113

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="description" content=""><meta name="author" content="">
+	<title>ERA INVESTMENT</title>
+	<!-- Bootstrap core CSS -->
+	<link href="css/bootstrap.css" rel="stylesheet" />
+	<link href="css/doc.css" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" type="text/css" /><!-- Just for debugging purposes. Don't actually copy this line! --><!--[if lt IE 9]><script src="../../docs-assets/js/ie8-responsive-file-warning.js"></script><![endif]--><!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries --><!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]--><!-- Custom styles for this template -->
+</head>
+<!-- NAVBAR
+================================================== -->
+<body>
+<div class="wrapper">
+<header class="header1">
+<div class="menu">
+<nav class="navbar navbar-default" role="navigation"><!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header"><button class="navbar-toggle" data-target=".navbar-ex2-collapse" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span></button>
+<div class="mob-logo">
+<div class="logo_img"><a href="index.html"><img alt="" src="images/logo.png" /></a></div>
+</div>
+</div>
+
+<div class="collapse navbar-collapse navbar-ex2-collapse">
+<ul class="nav navbar-nav">
+	<li><a href="about.html">About Us</a></li>
+	<li><a href="service.html">Services</a></li>
+	<li><a class="active" href="heritage.html">Heritage</a></li>
+	<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+</nav>
+</div>
+
+<div class="logo">
+<div class="logo_img"><a href="index.html"><img alt="" src="images/logo.png" style="width: 313px; height: 80px;" /></a></div>
+</div>
+</header>
+
+<div class="bnnr_sec">
+<div class="hrtg_bannr_img"><img alt="" src="images/heritage.jpg" />
+<div class="hrtg_bnnr_txt">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="hrtg_txt">
+<h2>Heritage</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="hrtg_mid_sec">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="hrtg_sec_txt">
+<h4>Generations of tradition with a driving relationship to Asia</h4>
+
+<p>Five generations of the Rickmers family have been active in the world of shipping for almost 200 years.</p>
+&nbsp;
+
+<p>An ancestor of E.R. Capital&#39;s owner Erck Rickmers laid the foundations for the business in 1834 when he started his own shipyard in Bremerhaven in northern Germany.</p>
+&nbsp;
+
+<p>In addition to shipping, the trained shipbuilder also became active in the rice trade. Under the management of the second generation of the Rickmers family, by 1890 the Rickmers rice mill had become one of the largest rice-processing plants in Europe.</p>
+&nbsp;
+
+<h4>More than 100 years business relations with China</h4>
+
+<p>In 1870, the entire Rickmers fleet was engaged in trading services to the Far East. In 1896, Rickmers was the first company to introduce five new steamers of 7,000 tons for regular services from Hamburg to Shanghai.</p>
+&nbsp;
+
+<p>In 1901, Rickmers set up the first river steamboat company operating under a German flag on the upper Yangtze in China.</p>
+&nbsp;
+
+<p>In 1973 Claus Rickmers, uncle and godfather of Erck Rickmers, was welcomed by President Zhou Enlai and took part in discussions on Chinese shipping policy.</p>
+&nbsp;
+
+<h4>Current business activities</h4>
+
+<p>Nowadays, the fifth generation of the Rickmers&#39; family is continuing this tradition of shipping, trade and friendship between their companies and countries.</p>
+&nbsp;
+
+<p>By cooperating with Chinese yards and operating its Harper Petersen ship broking office in Shanghai, E.R. Capital holds on to its strong ties with China till today and is thrilled to see a further expansion of business activities via ERA Investment Ltd.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<footer class="footer1">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<div class="copy">
+<p>Copyright &copy; 2015 ERA Investment Limited. All Rights Reserved.</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<!-- Bootstrap core JavaScript
+================================================== --><!-- Placed at the end of the document so the pages load faster --><script src="https://code.jquery.com/jquery-1.10.2.min.js"></script><script src="js/jquery.js"></script><script>
+			// Wait until the DOM has loaded before querying the document
+			$(document).ready(function(){
+				$('ul.tabs').each(function(){
+					// For each set of tabs, we want to keep track of
+					// which tab is active and it's associated content
+					var $active, $content, $links = $(this).find('a');
+
+					// If the location.hash matches one of the links, use that as the active tab.
+					// If no match is found, use the first link as the initial active tab.
+					$active = $($links.filter('[href="'+location.hash+'"]')[0] || $links[0]);
+					$active.addClass('active');
+
+					$content = $($active[0].hash);
+
+					// Hide the remaining content
+					$links.not($active).each(function () {
+						$(this.hash).hide();
+					});
+
+					// Bind the click event handler
+					$(this).on('click', 'a', function(e){
+						// Make the old tab inactive.
+						$active.removeClass('active');
+						$content.hide();
+
+						// Update the variables with the new link and content
+						$active = $(this);
+						$content = $(this.hash);
+
+						// Make the tab active.
+						$active.addClass('active');
+						$content.show();
+
+						// Prevent the anchor's default click action
+						e.preventDefault();
+					});
+				});
+			});
+		</script><script src="js/bootstrap.js"></script><script src="js/bootstrap-carousel.js"></script><script src="js/application.js"></script><!-- OR --><!-- <script src="js/docs.min.js"></script> --><!-- IE10 viewport hack for Surface/desktop Windows 8 bug --><script src="js/ie10-viewport-bug-workaround.js"></script></body>
+</html>
